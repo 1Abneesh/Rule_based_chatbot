@@ -1,0 +1,6 @@
+Tomato       50
+Onion        30
+Potato       20
+Cabbage      50
+Brinjal      80
+Cocumber     30
